@@ -14,4 +14,6 @@ module com.identityhelp.identityhelpsystem {
     exports com.identityhelp.identityhelpsystem.controller;
     exports com.identityhelp.identityhelpsystem.model;
     exports com.identityhelp.identityhelpsystem.config;
+    exports com.identityhelp.identityhelpsystem.service;
+    exports com.identityhelp.identityhelpsystem.repository;
 }
